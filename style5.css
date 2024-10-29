@@ -1,0 +1,44 @@
+.ig{
+    font-size: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bio{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button{
+    height: 40px;
+    width: 80px;
+    font-size: 30px;
+}
+.linea{
+    height: 10px;
+    background-color:black;
+    border-radius: 10px;
+}
+body{
+    background-image: url(data:image/jpeg;base64,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);
+    background-size: 1500px;
+}
+.puls{
+    height: 40px;
+    width: 110px;
+    font-size: 30px;   
+}
+.div{
+    text-align: right;
+}
+.div2{
+    width: 900px;
+    text-align: center;
+    
+}
+.img{
+    text-align: right;
+}
+.geno{
+    text-align: right;
+    height: 100px;
+    
+}
